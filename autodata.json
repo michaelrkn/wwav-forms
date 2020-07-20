@@ -1,0 +1,16 @@
+[
+  {
+    "label": {"type":"input","loc": "High School Name (required)"},
+    "fields": {
+      "city": {"type":"input","loc": "High School City"},
+      "state": {"type":"select","loc": "High School State"},
+      "zipCode": {"type":"input","loc": "High School Zip Code"}
+    },
+    "data": [
+      {"label":"Albert Einstein High School","group":"Montgomery County, Maryland","city":"Kensington","zipCode":"20910","state":"Maryland"},
+      {"label":"Bethesda-Chevy Chase","group":"Montgomery County, Maryland","zipCode":"20910"},
+      {"label":"Clarksburg High School","group":"Montgomery County, Maryland"},
+      {"label":"Col. Zadok Magruder H","group":"Montgomery County, Maryland"}]
+  }
+
+]
